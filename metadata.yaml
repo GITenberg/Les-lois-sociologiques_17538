@@ -1,0 +1,28 @@
+_repo: Les-lois-sociologiques_17538
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Greef, Guillaume de
+    birthdate: 1842
+    deathdate: 1924
+    gutenberg_agent_id: '7547'
+    url: http://www.gutenberg.org/2009/agents/7547
+description: ''
+gutenberg_bookshelf: FR Sciences et Techniques
+gutenberg_issued: '2006-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17538'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social psychology'
+- !lcsh 'Sociological jurisprudence'
+- !lcc 'K'
+title: Les lois sociologiques
+url: http://www.gutenberg.org/ebooks/17538
